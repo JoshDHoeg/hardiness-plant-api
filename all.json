@@ -1,7 +1,7 @@
 {
     "plants": [
     {
-      "Common Name": "Alan's Apricot ice plant",
+      "name": "Alan's Apricot ice plant",
       "Bontanic Name": "Delosperma 'Alan's Apricot' PPAF",
       "Plant Type": "Groundcover",
       "Height": "1-2",
@@ -20,7 +20,7 @@
       "Web Link": "http://plantselect.org/delosperma-alan-s-apricot-ppaf"
     },
     {
-      "Common Name": "Alleghany viburnum",
+      "name": "Alleghany viburnum",
       "Bontanic Name": "Viburnum x rhytidophylloides 'Alleghany'",
       "Plant Type": "Shrub",
       "Height": "8-10 feet",
@@ -39,7 +39,7 @@
       "Web Link": "http://plantselect.org/viburnum-x-rhytidophylloides-alleghany"
     },
     {
-      "Common Name": "Alpine willowherb",
+      "name": "Alpine willowherb",
       "Bontanic Name": "Epilobium fleischeri",
       "Plant Type": "Perennial",
       "Height": "18-20 inches",
@@ -58,7 +58,7 @@
       "Web Link": "http://plantselect.org/epilobium-fleischeri"
     },
     {
-      "Common Name": "Apache plume",
+      "name": "Apache plume",
       "Bontanic Name": "Fallugia paradoxa",
       "Plant Type": "Shrub",
       "Height": "4-6 feet",
@@ -77,7 +77,7 @@
       "Web Link": "http://plantselect.org/fallugia-paradoxa"
     },
     {
-      "Common Name": "Autumn Amber sumac",
+      "name": "Autumn Amber sumac",
       "Bontanic Name": "Rhus trilobata 'Autumn Amber'",
       "Plant Type": "Shrub",
       "Height": "10-14 inches",
@@ -96,7 +96,7 @@
       "Web Link": "http://plantselect.org/rhus-trilobata-autumn-amber"
     },
     {
-      "Common Name": "Autumn Sapphire™ sage",
+      "name": "Autumn Sapphire™ sage",
       "Bontanic Name": "Salvia reptans 'P016S'",
       "Plant Type": "Perennial",
       "Height": "18-24",
@@ -115,7 +115,7 @@
       "Web Link": "http://plantselect.org/salvia-reptans-p016s"
     },
     {
-      "Common Name": "Avalanche white sun daisy",
+      "name": "Avalanche white sun daisy",
       "Bontanic Name": "Osteospermum  ‘Avalanche'PP 22,705",
       "Plant Type": "Perennial",
       "Height": "8-14 inches",
@@ -134,7 +134,7 @@
       "Web Link": "http://plantselect.org/osteospermum-avalanche-sup-pp-22-705-sup"
     },
     {
-      "Common Name": "Baby Blue rabbitbrush",
+      "name": "Baby Blue rabbitbrush",
       "Bontanic Name": "Chrysothamnus (Ericameria) nauseosus var. nauseosus",
       "Plant Type": "Shrub",
       "Height": "12-36 inches",
@@ -153,7 +153,7 @@
       "Web Link": "http://plantselect.org/chrysothamnus-ericameria-nauseosus-var-nauseosus"
     },
     {
-      "Common Name": "Blonde Ambition grama grass",
+      "name": "Blonde Ambition grama grass",
       "Bontanic Name": "Bouteloua gracilis 'Blonde Ambition'PP 22,048",
       "Plant Type": "Ornamental grass",
       "Height": "30-36 inches",
@@ -172,7 +172,7 @@
       "Web Link": "http://plantselect.org/bouteloua-gracilis-blonde-ambition-sup-pp-22-048-sup"
     },
     {
-      "Common Name": "Blue Jazz pinyon pine",
+      "name": "Blue Jazz pinyon pine",
       "Bontanic Name": "Pinus monophylla ‘Blue Jazz'",
       "Plant Type": "Petites, Conifer",
       "Height": "24-30",
@@ -191,7 +191,7 @@
       "Web Link": "http://plantselect.org/pinus-monophylla-blue-jazz"
     },
     {
-      "Common Name": "BLUE VELVET® honeysuckle",
+      "name": "BLUE VELVET® honeysuckle",
       "Bontanic Name": "Lonicera korolkowii  'Floribunda'",
       "Plant Type": "Shrub",
       "Height": "10-12 feet",
@@ -210,7 +210,7 @@
       "Web Link": "http://plantselect.org/lonicera-korolkowii-floribunda"
     },
     {
-      "Common Name": "BLUE VELVET® pansy",
+      "name": "BLUE VELVET® pansy",
       "Bontanic Name": "Viola x wittrockiana",
       "Plant Type": "Tender Perennial",
       "Height": "6-10 inches",
@@ -229,7 +229,7 @@
       "Web Link": "http://plantselect.org/viola-x-wittrockiana1"
     },
     {
-      "Common Name": "Bluestem joint fir",
+      "name": "Bluestem joint fir",
       "Bontanic Name": "Ephedra equisetina",
       "Plant Type": "Shrub",
       "Height": "4-5 feet",
@@ -248,7 +248,7 @@
       "Web Link": "http://plantselect.org/ephedra-equisetina"
     },
     {
-      "Common Name": "Bridges' penstemon",
+      "name": "Bridges' penstemon",
       "Bontanic Name": "Penstemon rostriflorus",
       "Plant Type": "Perennial",
       "Height": "24-36 inches",
@@ -267,7 +267,7 @@
       "Web Link": "http://plantselect.org/penstemon-rostriflorus"
     },
     {
-      "Common Name": "Cape-forget-me-not, Summer-forget-me-not",
+      "name": "Cape-forget-me-not, Summer-forget-me-not",
       "Bontanic Name": "Anchusa capensis",
       "Plant Type": "Perennial",
       "Height": "8-16 inches",
@@ -286,7 +286,7 @@
       "Web Link": "http://plantselect.org/anchusa-capensis"
     },
     {
-      "Common Name": "Carol Mackie daphne",
+      "name": "Carol Mackie daphne",
       "Bontanic Name": "Daphne x burkwoodii 'Carol Mackie'",
       "Plant Type": "Shrub",
       "Height": "3-4 feet",
@@ -305,7 +305,7 @@
       "Web Link": "http://plantselect.org/daphne-x-burkwoodii-carol-mackie"
     },
     {
-      "Common Name": "Carolyn's Hope pink penstemon",
+      "name": "Carolyn's Hope pink penstemon",
       "Bontanic Name": "Penstemon x mexicali 'Carolyn's Hope' PPAF",
       "Plant Type": "Perennial",
       "Height": "14-18 inches",
@@ -324,7 +324,7 @@
       "Web Link": "http://plantselect.org/penstemon-x-mexicali-carolyn-s-hope-sup-ppaf-sup"
     },
     {
-      "Common Name": "Cashmere sage",
+      "name": "Cashmere sage",
       "Bontanic Name": "Phlomis cashmeriana",
       "Plant Type": "Perennial",
       "Height": "36-60 inches",
@@ -343,7 +343,7 @@
       "Web Link": "http://plantselect.org/phlomis-cashmeriana"
     },
     {
-      "Common Name": "Cherry skullcap",
+      "name": "Cherry skullcap",
       "Bontanic Name": "Scutellaria suffrutescens",
       "Plant Type": "Tender Perennial",
       "Height": "4-8 inches",
@@ -362,7 +362,7 @@
       "Web Link": "http://plantselect.org/scutellaria-suffrutescens"
     },
     {
-      "Common Name": "CHEYENNE® mock orange",
+      "name": "CHEYENNE® mock orange",
       "Bontanic Name": "Philadelphus lewisii 'PWY01S'",
       "Plant Type": "Shrub",
       "Height": "6-9 feet",
@@ -381,7 +381,7 @@
       "Web Link": "http://plantselect.org/philadelphus-lewisii-pwy01s"
     },
     {
-      "Common Name": "Chieftain manzanita",
+      "name": "Chieftain manzanita",
       "Bontanic Name": "Arctostaphylos x coloradensis ‘Chieftain'",
       "Plant Type": "Shrub",
       "Height": "1-2 feet",
@@ -400,7 +400,7 @@
       "Web Link": "http://plantselect.org/arctostaphylos-x-coloradensis-chieftain"
     },
     {
-      "Common Name": "Chocolate flower",
+      "name": "Chocolate flower",
       "Bontanic Name": "Berlandiera lyrata",
       "Plant Type": "Perennial",
       "Height": "12-20 inches",
@@ -419,7 +419,7 @@
       "Web Link": "http://plantselect.org/berlandiera-lyrata"
     },
     {
-      "Common Name": "CLEAR CREEK® golden yellowhorn",
+      "name": "CLEAR CREEK® golden yellowhorn",
       "Bontanic Name": "Xanthoceras sorbifolium 'Psgan'",
       "Plant Type": "Tree",
       "Height": "18-22 feet",
@@ -438,7 +438,7 @@
       "Web Link": "http://plantselect.org/xanthoceras-sorbifolium-psgan"
     },
     {
-      "Common Name": "Colorado desert blue star",
+      "name": "Colorado desert blue star",
       "Bontanic Name": "Amsonia jonesii",
       "Plant Type": "Perennial",
       "Height": "10-14 inches",
@@ -457,7 +457,7 @@
       "Web Link": "http://plantselect.org/amsonia-jonesii"
     },
     {
-      "Common Name": "COLORADO GOLD® gazania",
+      "name": "COLORADO GOLD® gazania",
       "Bontanic Name": "Gazania linearis 'P004S'",
       "Plant Type": "Perennial",
       "Height": "4-6 inches",
@@ -476,7 +476,7 @@
       "Web Link": "http://plantselect.org/gazania-linearis-p004s"
     },
     {
-      "Common Name": "Comanche gooseberry",
+      "name": "Comanche gooseberry",
       "Bontanic Name": "Ribes uva-crispa 'Red Jacket'",
       "Plant Type": "Shrub",
       "Height": "2-3 feet",
@@ -495,7 +495,7 @@
       "Web Link": "http://plantselect.org/ribes-uva-crispa-red-jacket"
     },
     {
-      "Common Name": "Coral Baby penstemon",
+      "name": "Coral Baby penstemon",
       "Bontanic Name": "Penstemon x 'Coral Baby'",
       "Plant Type": "Perennial",
       "Height": "16-20 inches",
@@ -514,7 +514,7 @@
       "Web Link": "http://plantselect.org/penstemon-x-coral-baby"
     },
     {
-      "Common Name": "CORAL CANYON® twinspur",
+      "name": "CORAL CANYON® twinspur",
       "Bontanic Name": "Diascia integerrima 'P009S'",
       "Plant Type": "Perennial",
       "Height": "12-18 inches",
@@ -533,7 +533,7 @@
       "Web Link": "http://plantselect.org/diascia-integerrima-p009s"
     },
     {
-      "Common Name": "CORONADO® hyssop",
+      "name": "CORONADO® hyssop",
       "Bontanic Name": "Agastache aurantiaca 'P012S'",
       "Plant Type": "Perennial",
       "Height": "16 inches",
@@ -552,7 +552,7 @@
       "Web Link": "http://plantselect.org/agastache-aurantiaca-p012s"
     },
     {
-      "Common Name": "CORONADO® Red hyssop",
+      "name": "CORONADO® Red hyssop",
       "Bontanic Name": "Agastache 'Pstessene'",
       "Plant Type": "Perennial",
       "Height": "18 inches",
@@ -571,7 +571,7 @@
       "Web Link": "http://plantselect.org/agastache-pstessene"
     },
     {
-      "Common Name": "Corsican violet",
+      "name": "Corsican violet",
       "Bontanic Name": "Viola corsica",
       "Plant Type": "Perennial",
       "Height": "6-8 inches",
@@ -590,7 +590,7 @@
       "Web Link": "http://plantselect.org/viola-corsica"
     },
     {
-      "Common Name": "CRYSTAL RIVER® veronica",
+      "name": "CRYSTAL RIVER® veronica",
       "Bontanic Name": "Veronica 'Reavis'",
       "Plant Type": "Groundcover",
       "Height": "2-3 inches",
@@ -609,7 +609,7 @@
       "Web Link": "http://plantselect.org/veronica-reavis"
     },
     {
-      "Common Name": "Curly leaf sea kale",
+      "name": "Curly leaf sea kale",
       "Bontanic Name": "Crambe maritima",
       "Plant Type": "Perennial",
       "Height": "18-24 inches",
@@ -628,7 +628,7 @@
       "Web Link": "http://plantselect.org/crambe-maritima"
     },
     {
-      "Common Name": "Dalmatian daisy",
+      "name": "Dalmatian daisy",
       "Bontanic Name": "Tanacetum cinerariifolium",
       "Plant Type": "Perennial",
       "Height": "16-20 inches",
@@ -647,7 +647,7 @@
       "Web Link": "http://plantselect.org/tanacetum-cinerariifolium"
     },
     {
-      "Common Name": "Dalmatian pink cranesbill",
+      "name": "Dalmatian pink cranesbill",
       "Bontanic Name": "Geranium dalmaticum",
       "Plant Type": "Petites",
       "Height": "6-8 inches",
@@ -666,7 +666,7 @@
       "Web Link": "http://plantselect.org/geranium-dalmaticum"
     },
     {
-      "Common Name": "Denver Daisy",
+      "name": "Denver Daisy",
       "Bontanic Name": "Rudbeckia",
       "Plant Type": "Tender Perennial",
       "Height": "18-28 inches",
@@ -685,7 +685,7 @@
       "Web Link": "http://plantselect.org/rudbeckia"
     },
     {
-      "Common Name": "DENVER GOLD® columbine",
+      "name": "DENVER GOLD® columbine",
       "Bontanic Name": "Aquilegia chrysantha",
       "Plant Type": "Perennial",
       "Height": "30-36 inches",
@@ -704,7 +704,7 @@
       "Web Link": "http://plantselect.org/aquilegia-chrysantha"
     },
     {
-      "Common Name": "Desert beardtongue",
+      "name": "Desert beardtongue",
       "Bontanic Name": "Penstemon pseudospectabilis",
       "Plant Type": "Perennial",
       "Height": "32-36 inches",
@@ -723,7 +723,7 @@
       "Web Link": "http://plantselect.org/penstemon-pseudospectabilis"
     },
     {
-      "Common Name": "Desert moss",
+      "name": "Desert moss",
       "Bontanic Name": "Arenaria 'Wallowa Mountain'",
       "Plant Type": "Petites",
       "Height": "1/2-1 inches",
@@ -742,7 +742,7 @@
       "Web Link": "http://plantselect.org/arenaria-wallowa-mountain"
     },
     {
-      "Common Name": "DOG TUFF™ grass",
+      "name": "DOG TUFF™ grass",
       "Bontanic Name": "Cynodon  'PWIN04S'",
       "Plant Type": "Groundcover",
       "Height": "2.5\" to 4",
@@ -761,7 +761,7 @@
       "Web Link": "http://plantselect.org/cynodon-pwin04s"
     },
     {
-      "Common Name": "Dwarf beach-head iris",
+      "name": "Dwarf beach-head iris",
       "Bontanic Name": "Iris hookeri, I. setosa ssp. canadensis",
       "Plant Type": "Petites",
       "Height": "8-12 inches",
@@ -780,7 +780,7 @@
       "Web Link": "http://plantselect.org/iris-hookeri-i-setosa-ssp-canadensis"
     },
     {
-      "Common Name": "Dwarf pinyon pine",
+      "name": "Dwarf pinyon pine",
       "Bontanic Name": "Pinus edulis",
       "Plant Type": "Petites, conifer",
       "Height": "24-30 inches",
@@ -799,7 +799,7 @@
       "Web Link": "http://plantselect.org/pinus-edulis"
     },
     {
-      "Common Name": "Engelmann's daisy",
+      "name": "Engelmann's daisy",
       "Bontanic Name": "Engelmannia peristenia",
       "Plant Type": "Perennial",
       "Height": "24-28 inches",
@@ -818,7 +818,7 @@
       "Web Link": "http://plantselect.org/engelmannia-peristenia"
     },
     {
-      "Common Name": "Fernbush",
+      "name": "Fernbush",
       "Bontanic Name": "Chamaebatiaria millefolium",
       "Plant Type": "Shrub",
       "Height": "3-5 feet",
@@ -837,7 +837,7 @@
       "Web Link": "http://plantselect.org/chamaebatiaria-millefolium"
     },
     {
-      "Common Name": "Filigree daisy",
+      "name": "Filigree daisy",
       "Bontanic Name": "Anthemis marschalliana",
       "Plant Type": "Perennial",
       "Height": "4-12 inches",
@@ -856,7 +856,7 @@
       "Web Link": "http://plantselect.org/anthemis-marschalliana"
     },
     {
-      "Common Name": "FIRE SPINNER® ice plant",
+      "name": "FIRE SPINNER® ice plant",
       "Bontanic Name": "Delosperma 'P001S'",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -875,7 +875,7 @@
       "Web Link": "http://plantselect.org/delosperma-p001s"
     },
     {
-      "Common Name": "FIRST LOVE® dianthus",
+      "name": "FIRST LOVE® dianthus",
       "Bontanic Name": "Dianthus",
       "Plant Type": "Perennial",
       "Height": "14-20 inches",
@@ -894,7 +894,7 @@
       "Web Link": "http://plantselect.org/dianthus"
     },
     {
-      "Common Name": "Furman's Red sage",
+      "name": "Furman's Red sage",
       "Bontanic Name": "Salvia greggii 'Furman's Red'",
       "Plant Type": "Perennial",
       "Height": "18-24 inches",
@@ -913,7 +913,7 @@
       "Web Link": "http://plantselect.org/salvia-greggii-furman-s-red"
     },
     {
-      "Common Name": "Giant sacaton",
+      "name": "Giant sacaton",
       "Bontanic Name": "Sporobolus wrightii",
       "Plant Type": "Ornamental grass",
       "Height": "60-84 inches",
@@ -932,7 +932,7 @@
       "Web Link": "http://plantselect.org/sporobolus-wrightii"
     },
     {
-      "Common Name": "Golden flowered prairie zinnia",
+      "name": "Golden flowered prairie zinnia",
       "Bontanic Name": "Zinnia grandiflora 'Gold on Blue'",
       "Plant Type": "Groundcover",
       "Height": "8-10 inches",
@@ -951,7 +951,7 @@
       "Web Link": "http://plantselect.org/zinnia-grandiflora-gold-on-blue"
     },
     {
-      "Common Name": "Golden storksbill",
+      "name": "Golden storksbill",
       "Bontanic Name": "Erodium chrysanthum",
       "Plant Type": "Perennial",
       "Height": "8-10 inches",
@@ -970,7 +970,7 @@
       "Web Link": "http://plantselect.org/erodium-chrysanthum"
     },
     {
-      "Common Name": "Goldhill golden-aster",
+      "name": "Goldhill golden-aster",
       "Bontanic Name": "Heterotheca jonesii x villosa 'Goldhill'",
       "Plant Type": "Petites",
       "Height": "1-2 inches",
@@ -989,7 +989,7 @@
       "Web Link": "http://plantselect.org/heterotheca-jonesii-x-villosa-goldhill"
     },
     {
-      "Common Name": "Grand Mesa beardtongue",
+      "name": "Grand Mesa beardtongue",
       "Bontanic Name": "Penstemon mensarum",
       "Plant Type": "Perennial",
       "Height": "24-30 inches",
@@ -1008,7 +1008,7 @@
       "Web Link": "http://plantselect.org/penstemon-mensarum"
     },
     {
-      "Common Name": "GRANITA® Raspberry ice plant",
+      "name": "GRANITA® Raspberry ice plant",
       "Bontanic Name": "Delosperma 'PJS01S'",
       "Plant Type": "Groundcover",
       "Height": "1-2",
@@ -1027,7 +1027,7 @@
       "Web Link": "http://plantselect.org/delosperma-pjs01s"
     },
     {
-      "Common Name": "Hopflower oregano",
+      "name": "Hopflower oregano",
       "Bontanic Name": "Origanum libanoticum",
       "Plant Type": "Perennial",
       "Height": "10-14 inches",
@@ -1046,7 +1046,7 @@
       "Web Link": "http://plantselect.org/origanum-libanoticum"
     },
     {
-      "Common Name": "HOT WINGS® Tatarian maple",
+      "name": "HOT WINGS® Tatarian maple",
       "Bontanic Name": "Acer tataricum 'GarAnn' PP 15,023",
       "Plant Type": "Tree",
       "Height": "15-18 feet",
@@ -1065,7 +1065,7 @@
       "Web Link": "http://plantselect.org/acer-tataricum-garann-pp-15-023"
     },
     {
-      "Common Name": "Hummingbird trumpet mint",
+      "name": "Hummingbird trumpet mint",
       "Bontanic Name": "Monardella macrantha 'Marian Sampson'",
       "Plant Type": "Perennial",
       "Height": "4-6 inches",
@@ -1084,7 +1084,7 @@
       "Web Link": "http://plantselect.org/monardella-macrantha-marian-sampson"
     },
     {
-      "Common Name": "KANNAH CREEK® buckwheat",
+      "name": "KANNAH CREEK® buckwheat",
       "Bontanic Name": "Eriogonum umbellatum var. aureum 'Psdowns'",
       "Plant Type": "Groundcover",
       "Height": "12-16 inches",
@@ -1103,7 +1103,7 @@
       "Web Link": "http://plantselect.org/eriogonum-umbellatum-var-aureum-psdowns"
     },
     {
-      "Common Name": "KINTZLEY'S GHOST® honeysuckle",
+      "name": "KINTZLEY'S GHOST® honeysuckle",
       "Bontanic Name": "Lonicera reticulata 'P015S'",
       "Plant Type": "Vine",
       "Height": "8-12 feet",
@@ -1122,7 +1122,7 @@
       "Web Link": "http://plantselect.org/lonicera-reticulata-p015s"
     },
     {
-      "Common Name": "Korean feather reed grass",
+      "name": "Korean feather reed grass",
       "Bontanic Name": "Calamagrostis brachytricha",
       "Plant Type": "Ornamental grass",
       "Height": "24-40 inches",
@@ -1141,7 +1141,7 @@
       "Web Link": "http://plantselect.org/calamagrostis-brachytricha"
     },
     {
-      "Common Name": "Lavender Ice ice plant",
+      "name": "Lavender Ice ice plant",
       "Bontanic Name": "Delosperma 'Psfave'",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -1160,7 +1160,7 @@
       "Web Link": "http://plantselect.org/delosperma-psfave"
     },
     {
-      "Common Name": "LAVENDER MIST® sun daisy",
+      "name": "LAVENDER MIST® sun daisy",
       "Bontanic Name": "Osteospermum sp. 'P006S'",
       "Plant Type": "Perennial",
       "Height": "8-14 inches",
@@ -1179,7 +1179,7 @@
       "Web Link": "http://plantselect.org/osteospermum-sp-p006s"
     },
     {
-      "Common Name": "LITTLE TRUDY® catmint",
+      "name": "LITTLE TRUDY® catmint",
       "Bontanic Name": "Nepeta ‘Psfike' PP 18,904",
       "Plant Type": "Perennial",
       "Height": "8-14 inches",
@@ -1198,7 +1198,7 @@
       "Web Link": "http://plantselect.org/nepeta-psfike-pp-18-904"
     },
     {
-      "Common Name": "Littleleaf mountain mahogany",
+      "name": "Littleleaf mountain mahogany",
       "Bontanic Name": "Cercocarpus intricatus",
       "Plant Type": "Shrub",
       "Height": "4-5 feet",
@@ -1217,7 +1217,7 @@
       "Web Link": "http://plantselect.org/cercocarpus-intricatus"
     },
     {
-      "Common Name": "MESA VERDE® ice plant",
+      "name": "MESA VERDE® ice plant",
       "Bontanic Name": "Delosperma 'Kelaidis' PP 13,876",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -1236,7 +1236,7 @@
       "Web Link": "http://plantselect.org/delosperma-kelaidis-pp-13-876"
     },
     {
-      "Common Name": "Mini Man™ dwarf Manchurian viburnum",
+      "name": "Mini Man™ dwarf Manchurian viburnum",
       "Bontanic Name": "Viburnum burejaeticum ‘P017S'",
       "Plant Type": "Shrub",
       "Height": "4-6'",
@@ -1255,7 +1255,7 @@
       "Web Link": "http://plantselect.org/viburnum-burejaeticum-p017s"
     },
     {
-      "Common Name": "Mock Bearberry manzanita",
+      "name": "Mock Bearberry manzanita",
       "Bontanic Name": "Arctostaphylos x coloradensis",
       "Plant Type": "Shrub",
       "Height": "10-24 inches",
@@ -1274,7 +1274,7 @@
       "Web Link": "http://plantselect.org/arctostaphylos-x-coloradensis1"
     },
     {
-      "Common Name": "Mojave sage",
+      "name": "Mojave sage",
       "Bontanic Name": "Salvia pachyphylla",
       "Plant Type": "Perennial",
       "Height": "18-24 inches",
@@ -1293,7 +1293,7 @@
       "Web Link": "http://plantselect.org/salvia-pachyphylla"
     },
     {
-      "Common Name": "MONGOLIAN BELLS® clematis",
+      "name": "MONGOLIAN BELLS® clematis",
       "Bontanic Name": "Clematis integrifolia 'PSHarlan'",
       "Plant Type": "Perennial",
       "Height": "10-16 inches",
@@ -1312,7 +1312,7 @@
       "Web Link": "http://plantselect.org/clematis-integrifolia-psharlan"
     },
     {
-      "Common Name": "Moon carrot",
+      "name": "Moon carrot",
       "Bontanic Name": "Seseli gummiferum",
       "Plant Type": "Perennial",
       "Height": "24-36 inches",
@@ -1331,7 +1331,7 @@
       "Web Link": "http://plantselect.org/seseli-gummiferum"
     },
     {
-      "Common Name": "Moroccan pincushion flower",
+      "name": "Moroccan pincushion flower",
       "Bontanic Name": "Pterocephalus depressus",
       "Plant Type": "Petites",
       "Height": 3,
@@ -1350,7 +1350,7 @@
       "Web Link": "http://plantselect.org/pterocephalus-depressus"
     },
     {
-      "Common Name": "Mountain lover",
+      "name": "Mountain lover",
       "Bontanic Name": "Paxistima canbyi",
       "Plant Type": "Groundcover",
       "Height": "8-12 inches",
@@ -1369,7 +1369,7 @@
       "Web Link": "http://plantselect.org/paxistima-canbyi"
     },
     {
-      "Common Name": "Narbonne blue flax",
+      "name": "Narbonne blue flax",
       "Bontanic Name": "Linum narbonense",
       "Plant Type": "Perennial",
       "Height": "16-18 inches",
@@ -1388,7 +1388,7 @@
       "Web Link": "http://plantselect.org/linum-narbonense"
     },
     {
-      "Common Name": "Northern Lights pansy",
+      "name": "Northern Lights pansy",
       "Bontanic Name": "Viola x wittrockiana",
       "Plant Type": "Tender Perennial",
       "Height": "6-10 inches",
@@ -1407,7 +1407,7 @@
       "Web Link": "http://plantselect.org/viola-x-wittrockiana"
     },
     {
-      "Common Name": "ORANGE CARPET® hummingbird trumpet",
+      "name": "ORANGE CARPET® hummingbird trumpet",
       "Bontanic Name": "Zauschneria garrettii 'PWWG01S'",
       "Plant Type": "Perennial",
       "Height": "4-6 inches",
@@ -1426,7 +1426,7 @@
       "Web Link": "http://plantselect.org/zauschneria-garrettii-pwwg01s"
     },
     {
-      "Common Name": "Oxlip primrose",
+      "name": "Oxlip primrose",
       "Bontanic Name": "Primula elatior",
       "Plant Type": "Petites",
       "Height": "8-12 inches",
@@ -1445,7 +1445,7 @@
       "Web Link": "http://plantselect.org/primula-elatior"
     },
     {
-      "Common Name": "Panchito manzanita",
+      "name": "Panchito manzanita",
       "Bontanic Name": "Arctostaphylos x coloradensis",
       "Plant Type": "Shrub",
       "Height": "10-24 inches",
@@ -1464,7 +1464,7 @@
       "Web Link": "http://plantselect.org/arctostaphylos-x-coloradensis"
     },
     {
-      "Common Name": "Partridge feather",
+      "name": "Partridge feather",
       "Bontanic Name": "Tanacetum densum ssp. Amani",
       "Plant Type": "Groundcover",
       "Height": "4-6 inches",
@@ -1483,7 +1483,7 @@
       "Web Link": "http://plantselect.org/tanacetum-densum-ssp-amani"
     },
     {
-      "Common Name": "PAWNEE BUTTES® sand cherry",
+      "name": "PAWNEE BUTTES® sand cherry",
       "Bontanic Name": "Prunus besseyi 'P011S'",
       "Plant Type": "Shrub",
       "Height": "15-18 inches",
@@ -1502,7 +1502,7 @@
       "Web Link": "http://plantselect.org/prunus-besseyi-p011s"
     },
     {
-      "Common Name": "PIKES PEAK PURPLE® penstemon",
+      "name": "PIKES PEAK PURPLE® penstemon",
       "Bontanic Name": "Penstemon x mexicali 'P007S'",
       "Plant Type": "Perennial",
       "Height": "14-18 inches",
@@ -1521,7 +1521,7 @@
       "Web Link": "http://plantselect.org/penstemon-x-mexicali-p007s"
     },
     {
-      "Common Name": "PINK CRYSTALS® ruby grass",
+      "name": "PINK CRYSTALS® ruby grass",
       "Bontanic Name": "Melinis nerviglumis",
       "Plant Type": "Ornamental Grass",
       "Height": "20-24 inches",
@@ -1540,7 +1540,7 @@
       "Web Link": "http://plantselect.org/melinis-nerviglumis"
     },
     {
-      "Common Name": "PLATINUM® sage",
+      "name": "PLATINUM® sage",
       "Bontanic Name": "Salvia daghestanica",
       "Plant Type": "Perennial",
       "Height": "8-12 inches",
@@ -1559,7 +1559,7 @@
       "Web Link": "http://plantselect.org/salvia-daghestanica"
     },
     {
-      "Common Name": "Prairie cordgrass",
+      "name": "Prairie cordgrass",
       "Bontanic Name": "Spartina pectinata",
       "Plant Type": "Ornamental grass",
       "Height": "20-30 inches",
@@ -1578,7 +1578,7 @@
       "Web Link": "http://plantselect.org/spartina-pectinata"
     },
     {
-      "Common Name": "PRAIRIE JEWEL® penstemon",
+      "name": "PRAIRIE JEWEL® penstemon",
       "Bontanic Name": "Penstemon grandiflorus 'P010S'",
       "Plant Type": "Perennial",
       "Height": "20-36 inches",
@@ -1597,7 +1597,7 @@
       "Web Link": "http://plantselect.org/penstemon-grandiflorus-p010s"
     },
     {
-      "Common Name": "Prairie Lode sundrops",
+      "name": "Prairie Lode sundrops",
       "Bontanic Name": "Calylophus serrulatus 'Prairie Lode'",
       "Plant Type": "Perennial",
       "Height": "6-8 inches",
@@ -1616,7 +1616,7 @@
       "Web Link": "http://plantselect.org/calylophus-serrulatus-prairie-lode"
     },
     {
-      "Common Name": "Princess Kay plum",
+      "name": "Princess Kay plum",
       "Bontanic Name": "Prunus nigra 'Princess Kay'",
       "Plant Type": "Tree",
       "Height": "15-20 feet",
@@ -1635,7 +1635,7 @@
       "Web Link": "http://plantselect.org/prunus-nigra-princess-kay"
     },
     {
-      "Common Name": "PURPLE MOUNTAIN® sun daisy",
+      "name": "PURPLE MOUNTAIN® sun daisy",
       "Bontanic Name": "Osteospermum barberiae var. compactum 'P005S'",
       "Plant Type": "Perennial",
       "Height": "12-14 inches",
@@ -1654,7 +1654,7 @@
       "Web Link": "http://plantselect.org/osteospermum-barberiae-var-compactum-p005s"
     },
     {
-      "Common Name": "Purple winter savory",
+      "name": "Purple winter savory",
       "Bontanic Name": "Satureja montana var. illyrica",
       "Plant Type": "Perennial",
       "Height": "4-6 inches",
@@ -1673,7 +1673,7 @@
       "Web Link": "http://plantselect.org/satureja-montana-var-illyrica"
     },
     {
-      "Common Name": "Red birds in a tree",
+      "name": "Red birds in a tree",
       "Bontanic Name": "Scrophularia macrantha",
       "Plant Type": "Perennial",
       "Height": "30-36 inches",
@@ -1692,7 +1692,7 @@
       "Web Link": "http://plantselect.org/scrophularia-macrantha"
     },
     {
-      "Common Name": "Red feathers",
+      "name": "Red feathers",
       "Bontanic Name": "Echium amoenum",
       "Plant Type": "Perennial",
       "Height": "12-16 inches",
@@ -1711,7 +1711,7 @@
       "Web Link": "http://plantselect.org/echium-amoenum"
     },
     {
-      "Common Name": "RED MOUNTAIN® Flame ice plant",
+      "name": "RED MOUNTAIN® Flame ice plant",
       "Bontanic Name": "Delosperma 'PWWG02S'",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -1730,7 +1730,7 @@
       "Web Link": "http://plantselect.org/delosperma-pwwg02s"
     },
     {
-      "Common Name": "RED MOUNTAIN® ice plant",
+      "name": "RED MOUNTAIN® ice plant",
       "Bontanic Name": "Delosperma dyeri 'Psdold'",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -1749,7 +1749,7 @@
       "Web Link": "http://plantselect.org/delosperma-dyeri-psdold"
     },
     {
-      "Common Name": "RED ROCKS® penstemon",
+      "name": "RED ROCKS® penstemon",
       "Bontanic Name": "Penstemon x mexicali 'P008S'",
       "Plant Type": "Perennial",
       "Height": "14-18 inches",
@@ -1768,7 +1768,7 @@
       "Web Link": "http://plantselect.org/penstemon-x-mexicali-p008s"
     },
     {
-      "Common Name": "Red yucca",
+      "name": "Red yucca",
       "Bontanic Name": "Hesperaloe parviflora",
       "Plant Type": "Shrub",
       "Height": "36-48 inches",
@@ -1787,7 +1787,7 @@
       "Web Link": "http://plantselect.org/hesperaloe-parviflora"
     },
     {
-      "Common Name": "Redleaf rose",
+      "name": "Redleaf rose",
       "Bontanic Name": "Rosa glauca, R. rubrifolia",
       "Plant Type": "Shrub",
       "Height": "6-8 feet",
@@ -1806,7 +1806,7 @@
       "Web Link": "http://plantselect.org/rosa-glauca-r-rubrifolia"
     },
     {
-      "Common Name": "Regal torchlily",
+      "name": "Regal torchlily",
       "Bontanic Name": "Kniphofia caulescens",
       "Plant Type": "Perennial",
       "Height": "36-40 inches",
@@ -1825,7 +1825,7 @@
       "Web Link": "http://plantselect.org/kniphofia-caulescens"
     },
     {
-      "Common Name": "REMEMBRANCE® columbine",
+      "name": "REMEMBRANCE® columbine",
       "Bontanic Name": "Aquilegia 'Swan Violet & White'",
       "Plant Type": "Perennial",
       "Height": "18-24 inches",
@@ -1844,7 +1844,7 @@
       "Web Link": "http://plantselect.org/aquilegia-swan-violet-white"
     },
     {
-      "Common Name": "Ruby Moon hyacinth bean",
+      "name": "Ruby Moon hyacinth bean",
       "Bontanic Name": "Dolichos lablab 'Ruby Moon'",
       "Plant Type": "Vine",
       "Height": "6-10 feet",
@@ -1863,7 +1863,7 @@
       "Web Link": "http://plantselect.org/dolichos-lablab-ruby-moon"
     },
     {
-      "Common Name": "Ruby Voodoo rose",
+      "name": "Ruby Voodoo rose",
       "Bontanic Name": "Rosa 'Ruby Voodoo'",
       "Plant Type": "Shrub",
       "Height": "5-6 feet",
@@ -1882,7 +1882,7 @@
       "Web Link": "http://plantselect.org/rosa-ruby-voodoo"
     },
     {
-      "Common Name": "Russian hawthorn",
+      "name": "Russian hawthorn",
       "Bontanic Name": "Crataegus ambigua",
       "Plant Type": "Tree",
       "Height": "16-20 feet",
@@ -1901,7 +1901,7 @@
       "Web Link": "http://plantselect.org/crataegus-ambigua"
     },
     {
-      "Common Name": "Sandia coral bells",
+      "name": "Sandia coral bells",
       "Bontanic Name": "Heuchera pulchella",
       "Plant Type": "Petites",
       "Height": "8-10 inches",
@@ -1920,7 +1920,7 @@
       "Web Link": "http://plantselect.org/heuchera-pulchella"
     },
     {
-      "Common Name": "Scott's sugarbowls",
+      "name": "Scott's sugarbowls",
       "Bontanic Name": "Clematis scottii",
       "Plant Type": "Petites",
       "Height": "12 inches",
@@ -1939,7 +1939,7 @@
       "Web Link": "http://plantselect.org/clematis-scottii"
     },
     {
-      "Common Name": "Sea Foam sage",
+      "name": "Sea Foam sage",
       "Bontanic Name": "Artemisia versicolor 'Sea Foam'",
       "Plant Type": "Perennial",
       "Height": "8-12 inches",
@@ -1958,7 +1958,7 @@
       "Web Link": "http://plantselect.org/artemisia-versicolor-sea-foam"
     },
     {
-      "Common Name": "Seven-son-flower",
+      "name": "Seven-son-flower",
       "Bontanic Name": "Heptacodium miconioides",
       "Plant Type": "Tree",
       "Height": "18-25 feet",
@@ -1977,7 +1977,7 @@
       "Web Link": "http://plantselect.org/heptacodium-miconioides"
     },
     {
-      "Common Name": "SHADOW MOUNTAIN® penstemon",
+      "name": "SHADOW MOUNTAIN® penstemon",
       "Bontanic Name": "Penstemon x mexicali 'Psmyers'",
       "Plant Type": "Perennial",
       "Height": "18-24 inches",
@@ -1996,7 +1996,7 @@
       "Web Link": "http://plantselect.org/penstemon-x-mexicali-psmyers"
     },
     {
-      "Common Name": "Shangri-la sage",
+      "name": "Shangri-la sage",
       "Bontanic Name": "Salvia moorcroftiana x indica",
       "Plant Type": "Perennial",
       "Height": "2-3 feet",
@@ -2015,7 +2015,7 @@
       "Web Link": "http://plantselect.org/salvia-moorcroftiana-x-indica"
     },
     {
-      "Common Name": "Siberian spirea",
+      "name": "Siberian spirea",
       "Bontanic Name": "Sibiraea laevigata",
       "Plant Type": "Shrub",
       "Height": "4-5 feet",
@@ -2034,7 +2034,7 @@
       "Web Link": "http://plantselect.org/sibiraea-laevigata"
     },
     {
-      "Common Name": "Silky rock jasmine",
+      "name": "Silky rock jasmine",
       "Bontanic Name": "Androsace sarmentosa 'Chumbyi'",
       "Plant Type": "Petites",
       "Height": "2-4 inches",
@@ -2053,7 +2053,7 @@
       "Web Link": "http://plantselect.org/androsace-sarmentosa-chumbyi"
     },
     {
-      "Common Name": "SILVER BLADE® evening primrose",
+      "name": "SILVER BLADE® evening primrose",
       "Bontanic Name": "Oenothera macrocarpa subsp. incana",
       "Plant Type": "Perennial",
       "Height": "4-8 inches",
@@ -2072,7 +2072,7 @@
       "Web Link": "http://plantselect.org/oenothera-macrocarpa-subsp-incana"
     },
     {
-      "Common Name": "Silver dollar plant",
+      "name": "Silver dollar plant",
       "Bontanic Name": "Plectranthus argentatus",
       "Plant Type": "Annual",
       "Height": "20-36 inches",
@@ -2091,7 +2091,7 @@
       "Web Link": "http://plantselect.org/plectranthus-argentatus"
     },
     {
-      "Common Name": "Silver Fountain butterfly bush",
+      "name": "Silver Fountain butterfly bush",
       "Bontanic Name": "Buddleia alternifolia 'Argentea'",
       "Plant Type": "Shrub",
       "Height": "12-15 feet",
@@ -2110,7 +2110,7 @@
       "Web Link": "http://plantselect.org/buddleia-alternifolia-argentea"
     },
     {
-      "Common Name": "Silver sage",
+      "name": "Silver sage",
       "Bontanic Name": "Salvia argentea",
       "Plant Type": "Perennial",
       "Height": "24-36 inches",
@@ -2129,7 +2129,7 @@
       "Web Link": "http://plantselect.org/salvia-argentea"
     },
     {
-      "Common Name": "Silverheels horehound",
+      "name": "Silverheels horehound",
       "Bontanic Name": "Marrubium rotundifolium",
       "Plant Type": "Groundcover",
       "Height": "4 inches",
@@ -2148,7 +2148,7 @@
       "Web Link": "http://plantselect.org/marrubium-rotundifolium"
     },
     {
-      "Common Name": "SILVERTON® bluemat penstemon",
+      "name": "SILVERTON® bluemat penstemon",
       "Bontanic Name": "Penstemon linarioides ssp. coloradoensis 'P014S'",
       "Plant Type": "Perennial",
       "Height": "8-12 inches",
@@ -2167,7 +2167,7 @@
       "Web Link": "http://plantselect.org/penstemon-linarioides-ssp-coloradoensis-p014s"
     },
     {
-      "Common Name": "Sky's Edge™ scutellaria",
+      "name": "Sky's Edge™ scutellaria",
       "Bontanic Name": "Scutellaria scordiifolia 'Pat Hayward'",
       "Plant Type": "Perennial",
       "Height": "12-16",
@@ -2186,7 +2186,7 @@
       "Web Link": "http://plantselect.org/scutellaria-scordiifolia-pat-hayward"
     },
     {
-      "Common Name": "Smith's buckthorn",
+      "name": "Smith's buckthorn",
       "Bontanic Name": "Rhamnus smithii",
       "Plant Type": "Shrub",
       "Height": "8-10 feet",
@@ -2205,7 +2205,7 @@
       "Web Link": "http://plantselect.org/rhamnus-smithii"
     },
     {
-      "Common Name": "Smoky Hills skullcap",
+      "name": "Smoky Hills skullcap",
       "Bontanic Name": "Scutellaria resinosa 'Smoky Hills'",
       "Plant Type": "Perennial",
       "Height": "8-10 inches",
@@ -2224,7 +2224,7 @@
       "Web Link": "http://plantselect.org/scutellaria-resinosa-smoky-hills"
     },
     {
-      "Common Name": "Snow Angel coral bells",
+      "name": "Snow Angel coral bells",
       "Bontanic Name": "Heuchera sanguinea 'Snow Angel'",
       "Plant Type": "Perennial",
       "Height": "6-14 inches",
@@ -2243,7 +2243,7 @@
       "Web Link": "http://plantselect.org/heuchera-sanguinea-snow-angel"
     },
     {
-      "Common Name": "Snow Mesa buckwheat",
+      "name": "Snow Mesa buckwheat",
       "Bontanic Name": "Eriogonum wrightii var. wrightii",
       "Plant Type": "Perennial",
       "Height": "18-20 inches",
@@ -2262,7 +2262,7 @@
       "Web Link": "http://plantselect.org/eriogonum-wrightii-var-wrightii"
     },
     {
-      "Common Name": "SNOWMASS® blue-eyed veronica",
+      "name": "SNOWMASS® blue-eyed veronica",
       "Bontanic Name": "Veronica x ‘P018S'",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -2281,7 +2281,7 @@
       "Web Link": "http://plantselect.org/veronica-x-p018s"
     },
     {
-      "Common Name": "SNOWMASS® phlox",
+      "name": "SNOWMASS® phlox",
       "Bontanic Name": "Phlox bifida",
       "Plant Type": "Perennial",
       "Height": "4-8 inches",
@@ -2300,7 +2300,7 @@
       "Web Link": "http://plantselect.org/phlox-bifida"
     },
     {
-      "Common Name": "SONORAN SUNSET® hyssop",
+      "name": "SONORAN SUNSET® hyssop",
       "Bontanic Name": "Agastache cana 'Sinning' PP 13,673",
       "Plant Type": "Perennial",
       "Height": "16 inches",
@@ -2319,7 +2319,7 @@
       "Web Link": "http://plantselect.org/agastache-cana-sinning-pp-13-673"
     },
     {
-      "Common Name": "SPANISH GOLD® broom",
+      "name": "SPANISH GOLD® broom",
       "Bontanic Name": "Cytisus purgans",
       "Plant Type": "Shrub",
       "Height": "3-4 feet",
@@ -2338,7 +2338,7 @@
       "Web Link": "http://plantselect.org/cytisus-purgans"
     },
     {
-      "Common Name": "SPANISH PEAKS® foxglove",
+      "name": "SPANISH PEAKS® foxglove",
       "Bontanic Name": "Digitalis thapsi",
       "Plant Type": "Perennial",
       "Height": "12-18 inches",
@@ -2357,7 +2357,7 @@
       "Web Link": "http://plantselect.org/digitalis-thapsi"
     },
     {
-      "Common Name": "St. Theresa seedless grape",
+      "name": "St. Theresa seedless grape",
       "Bontanic Name": "Vitis x ‘St. Theresa Seedless'",
       "Plant Type": "Vine",
       "Height": "15-20 feet",
@@ -2376,7 +2376,7 @@
       "Web Link": "http://plantselect.org/vitis-x-st-theresa-seedless"
     },
     {
-      "Common Name": "Standing Ovation little bluestem",
+      "name": "Standing Ovation little bluestem",
       "Bontanic Name": "Schizachyrium scoparium ‘Standing Ovation' PP25,202",
       "Plant Type": "Ornamental grass",
       "Height": "24-36",
@@ -2395,7 +2395,7 @@
       "Web Link": "http://plantselect.org/schizachyrium-scoparium-standing-ovation-pp25-202"
     },
     {
-      "Common Name": "STARBURST® ice plant",
+      "name": "STARBURST® ice plant",
       "Bontanic Name": "Delosperma floribundum",
       "Plant Type": "Groundcover",
       "Height": "4 inches",
@@ -2414,7 +2414,7 @@
       "Web Link": "http://plantselect.org/delosperma-floribundum"
     },
     {
-      "Common Name": "Sungari redbead cotoneaster",
+      "name": "Sungari redbead cotoneaster",
       "Bontanic Name": "Cotoneaster racemiflorus var. soongoricus",
       "Plant Type": "Shrub",
       "Height": "6-8 feet",
@@ -2433,7 +2433,7 @@
       "Web Link": "http://plantselect.org/cotoneaster-racemiflorus-var-soongoricus"
     },
     {
-      "Common Name": "Sunset hyssop",
+      "name": "Sunset hyssop",
       "Bontanic Name": "Agastache rupestris",
       "Plant Type": "Perennial",
       "Height": "20-24 inches",
@@ -2452,7 +2452,7 @@
       "Web Link": "http://plantselect.org/agastache-rupestris"
     },
     {
-      "Common Name": "SUNSET® foxglove",
+      "name": "SUNSET® foxglove",
       "Bontanic Name": "Digitalis obscura",
       "Plant Type": "Perennial",
       "Height": "14-24 inches",
@@ -2471,7 +2471,7 @@
       "Web Link": "http://plantselect.org/digitalis-obscura"
     },
     {
-      "Common Name": "TABLE MOUNTAIN® ice plant",
+      "name": "TABLE MOUNTAIN® ice plant",
       "Bontanic Name": "Delosperma 'John Proffitt'",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -2490,7 +2490,7 @@
       "Web Link": "http://plantselect.org/delosperma-john-proffitt"
     },
     {
-      "Common Name": "TANAGER® gazania",
+      "name": "TANAGER® gazania",
       "Bontanic Name": "Gazania krebsiana",
       "Plant Type": "Tender Perennial",
       "Height": "2-4 inches",
@@ -2509,7 +2509,7 @@
       "Web Link": "http://plantselect.org/gazania-krebsiana"
     },
     {
-      "Common Name": "Tennessee purple coneflower",
+      "name": "Tennessee purple coneflower",
       "Bontanic Name": "Echinacea tennesseensis",
       "Plant Type": "Perennial",
       "Height": "18-24 inches",
@@ -2528,7 +2528,7 @@
       "Web Link": "http://plantselect.org/echinacea-tennesseensis"
     },
     {
-      "Common Name": "Thin Man Indian grass",
+      "name": "Thin Man Indian grass",
       "Bontanic Name": "Sorghastrum nutans 'Thin Man' PPAF",
       "Plant Type": "Ornamental Grass",
       "Height": "72 inches",
@@ -2547,7 +2547,7 @@
       "Web Link": "http://plantselect.org/sorghastrum-nutans-thin-man-ppaf"
     },
     {
-      "Common Name": "Turkish veronica",
+      "name": "Turkish veronica",
       "Bontanic Name": "Veronica liwanensis",
       "Plant Type": "Groundcover",
       "Height": "1-2 inches",
@@ -2566,7 +2566,7 @@
       "Web Link": "http://plantselect.org/veronica-liwanensis"
     },
     {
-      "Common Name": "Turquoise Tails blue sedum",
+      "name": "Turquoise Tails blue sedum",
       "Bontanic Name": "Sedum sediforme",
       "Plant Type": "Groundcover",
       "Height": "6-10 inches",
@@ -2585,7 +2585,7 @@
       "Web Link": "http://plantselect.org/sedum-sediforme"
     },
     {
-      "Common Name": "UNDAUNTED® ruby muhly",
+      "name": "UNDAUNTED® ruby muhly",
       "Bontanic Name": "Muhlenbergia reverchonii 'PUND01S'",
       "Plant Type": "Ornamental grass",
       "Height": "16-20 inches",
@@ -2604,7 +2604,7 @@
       "Web Link": "http://plantselect.org/muhlenbergia-reverchonii-pund01s"
     },
     {
-      "Common Name": "VALLEY LAVENDER® plains verbena",
+      "name": "VALLEY LAVENDER® plains verbena",
       "Bontanic Name": "Verbena bipinnatifida",
       "Plant Type": "Groundcover",
       "Height": "3-6 inches",
@@ -2623,7 +2623,7 @@
       "Web Link": "http://plantselect.org/verbena-bipinnatifida"
     },
     {
-      "Common Name": "VERMILION BLUFFS® mexican sage",
+      "name": "VERMILION BLUFFS® mexican sage",
       "Bontanic Name": "Salvia darcyi 'Pscarl'",
       "Plant Type": "Perennial",
       "Height": "36-40 inches",
@@ -2642,7 +2642,7 @@
       "Web Link": "http://plantselect.org/salvia-darcyi-pscarl"
     },
     {
-      "Common Name": "Waxflower",
+      "name": "Waxflower",
       "Bontanic Name": "Jamesia americana",
       "Plant Type": "Shrub",
       "Height": "4-6 feet",
@@ -2661,7 +2661,7 @@
       "Web Link": "http://plantselect.org/jamesia-americana"
     },
     {
-      "Common Name": "Wee One dwarf English lavender",
+      "name": "Wee One dwarf English lavender",
       "Bontanic Name": "Lavandula angustifolia ‘Wee One'",
       "Plant Type": "Petites",
       "Height": "8-10 inches",
@@ -2680,7 +2680,7 @@
       "Web Link": "http://plantselect.org/lavandula-angustifolia-wee-one"
     },
     {
-      "Common Name": "Weeping white spruce",
+      "name": "Weeping white spruce",
       "Bontanic Name": "Picea glauca 'Pendula'",
       "Plant Type": "Conifer",
       "Height": "20-24 feet",
@@ -2699,7 +2699,7 @@
       "Web Link": "http://plantselect.org/picea-glauca-pendula"
     },
     {
-      "Common Name": "Wild Thing sage",
+      "name": "Wild Thing sage",
       "Bontanic Name": "Salvia greggii",
       "Plant Type": "Perennial",
       "Height": "18-24 inches",
@@ -2718,7 +2718,7 @@
       "Web Link": "http://plantselect.org/salvia-greggii"
     },
     {
-      "Common Name": "WINDWALKER® garnet penstemon",
+      "name": "WINDWALKER® garnet penstemon",
       "Bontanic Name": "Penstemon x mexicali 'PWIN02S'",
       "Plant Type": "Perennial",
       "Height": "14-18 inches",
@@ -2737,7 +2737,7 @@
       "Web Link": "http://plantselect.org/penstemon-x-mexicali-pwin02s"
     },
     {
-      "Common Name": "WINDWALKER®  big bluestem",
+      "name": "WINDWALKER®  big bluestem",
       "Bontanic Name": "Andropogon gerardii 'PWIN01S'",
       "Plant Type": "Ornamental grass",
       "Height": "60-72 inches",
@@ -2756,7 +2756,7 @@
       "Web Link": "http://plantselect.org/andropogon-gerardii-pwin01s"
     },
     {
-      "Common Name": "WINDWALKER®  royal red salvia",
+      "name": "WINDWALKER®  royal red salvia",
       "Bontanic Name": "Salvia darcyi x S. microphylla 'PWIN03S'",
       "Plant Type": "Perennial",
       "Height": "36-48 inches",
@@ -2775,7 +2775,7 @@
       "Web Link": "http://plantselect.org/salvia-darcyi-x-s-microphylla-pwin03s"
     },
     {
-      "Common Name": "Winecups",
+      "name": "Winecups",
       "Bontanic Name": "Callirhoe involucrata",
       "Plant Type": "Groundcover",
       "Height": "8-12 inches",
@@ -2794,7 +2794,7 @@
       "Web Link": "http://plantselect.org/callirhoe-involucrata"
     },
     {
-      "Common Name": "Woodward columnar juniper",
+      "name": "Woodward columnar juniper",
       "Bontanic Name": "Juniperus scopulorum 'Woodward'",
       "Plant Type": "Conifer",
       "Height": "20 feet",
@@ -2813,7 +2813,7 @@
       "Web Link": "http://plantselect.org/juniperus-scopulorum-woodward"
     },
     {
-      "Common Name": "Yellow stardust draba",
+      "name": "Yellow stardust draba",
       "Bontanic Name": "Draba rigida",
       "Plant Type": "Petites",
       "Height": "2-3",
